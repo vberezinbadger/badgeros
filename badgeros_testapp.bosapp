@@ -1,0 +1,9 @@
+//BadgerOS 2020. All rights reserved.
+<title>MainForm</title>
+<appInfo>
+  <version>0.0.0.0</version>
+  <dev>KolibraCorp</dev>
+</appInfo>
+<formCode>
+  <flexLibFile>path:\\kernel\flexui\bin\flexui.dll</flexLibFile>
+</formCode>
