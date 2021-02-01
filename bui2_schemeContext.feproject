@@ -1,0 +1,36 @@
+// BadgerOS 2021. All rights reserved.
+// KolibraCorp 2021. All rights reserved.
+<schemename>BadgerUI 2</schemename>
+<schemeID>0718df9otz3301nq</schemeID>
+<engineVersionAPI>flexengine2.3.412_release</engineVersionAPI>
+
+// This is Badger, baby... Okay, let's go!
+[contextAlerts]
+<infoContext>
+   <id>infoContext</id>
+   <icon>.kernel/icons/Context/info/icon.fesource</icon>
+   <textAlert>
+      [ru-RU]ИНФОРМАЦИЯ:
+      [en-US]INFORMATION:
+   </textAlert>
+<alertContext>
+   <id>alertContext</id>
+   <icon>.kernel/icons/Context/alert/alert.fesource</icon>
+   <textAlert>
+      [ru-RU]ВНИМАНИЕ:
+      [en-US]ВНИМАНИЕ:
+   </textAlert>
+<errorContext>
+   <id>errorContext</id>
+   <icon>.kernel/icons/Context/error/error.fesource</icon>
+   <textAlert>
+      [ru-RU]ОШИБКА:
+      [en-US]ERROR:
+   </textAlert>
+<doneContext>
+   <id>doneContext</id>
+   <icon>.kernel/icons/Context/done/done.fesource</icon>
+   <textAlert>
+      [ru-RU]ГОТОВО:
+      [en-US]DONE:
+   </textAlert>
